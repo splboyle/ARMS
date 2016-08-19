@@ -1,0 +1,198 @@
+ARMS_Unit,Region,Region_ADJ,Island,Acidopsidae,Aethridae,Carpiliidae,Domeciidae,Dromiidae,Dynomenidae,Epialtidae,Eumedonidae,Euryplacidae,Grapsidae,Hymenosomatidae,Inachidae,Leucosiidae,Majidae,Majoidea,Mithracidae,Palicidae,Parthenopidae,Percnidae,Pilumnidae,Pisidae,Plagusiidae,Portunidae,Tanaochelidae,Tetraliidae,Trapeziidae,Xanthidae
+OFU03_A,American Samoa,American Samoa,Ofu/Olosega,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,6
+OFU03_B,American Samoa,American Samoa,Ofu/Olosega,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,4,0,0,0,1
+OFU03_C,American Samoa,American Samoa,Ofu/Olosega,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,0,5
+OFU04_A,American Samoa,American Samoa,Ofu/Olosega,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+OFU04_B,American Samoa,American Samoa,Ofu/Olosega,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+OFU04_C,American Samoa,American Samoa,Ofu/Olosega,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,8
+OLO04_A,American Samoa,American Samoa,Ofu/Olosega,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,4,0,0,1,2
+OLO04_B,American Samoa,American Samoa,Ofu/Olosega,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,4
+OLO04_C,American Samoa,American Samoa,Ofu/Olosega,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2
+ROS04_A,American Samoa,American Samoa,Rose,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13,0,0,0,3
+ROS04_B,American Samoa,American Samoa,Rose,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+ROS04_C,American Samoa,American Samoa,Rose,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+ROS19_A,American Samoa,American Samoa,Rose,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+ROS19_B,American Samoa,American Samoa,Rose,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,0,1,1
+ROS19_C,American Samoa,American Samoa,Rose,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2
+ROS25_A,American Samoa,American Samoa,Rose,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,0,0,0,2
+ROS25_B,American Samoa,American Samoa,Rose,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,0,1,5
+ROS25_C,American Samoa,American Samoa,Rose,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,10
+SWA01_A,American Samoa,American Samoa,Swains,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+SWA01_B,American Samoa,American Samoa,Swains,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,9
+SWA01_C,American Samoa,American Samoa,Swains,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+SWA03_A,American Samoa,American Samoa,Swains,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11
+SWA03_B,American Samoa,American Samoa,Swains,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+SWA03_C,American Samoa,American Samoa,Swains,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5
+SWA16_A,American Samoa,American Samoa,Swains,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,15
+TUT01_A,American Samoa,American Samoa,Tutuila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,2
+TUT01_B,American Samoa,American Samoa,Tutuila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1
+TUT01_C,American Samoa,American Samoa,Tutuila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1
+TUT11_A,American Samoa,American Samoa,Tutuila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+TUT11_B,American Samoa,American Samoa,Tutuila,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,1
+TUT11_C,American Samoa,American Samoa,Tutuila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,1
+TUT22_A,American Samoa,American Samoa,Tutuila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+TUT22_B,American Samoa,American Samoa,Tutuila,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,8
+TUT22_C,American Samoa,American Samoa,Tutuila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,3
+KIM01_A,Coral Triangle,Coral Triangle,Papua New Guinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,18,0,0,5
+KIM01_B,Coral Triangle,Coral Triangle,Papua New Guinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,7,1,0,3
+KIM01_C,Coral Triangle,Coral Triangle,Papua New Guinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,10,0,1,9
+KIM02_A,Coral Triangle,Coral Triangle,Papua New Guinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,1,0,0,3
+KIM02_B,Coral Triangle,Coral Triangle,Papua New Guinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,8,0,1,1
+KIM02_C,Coral Triangle,Coral Triangle,Papua New Guinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,2,15
+KIM03_A,Coral Triangle,Coral Triangle,Papua New Guinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,21,0,0,0
+KIM03_B,Coral Triangle,Coral Triangle,Papua New Guinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,9,0,0,0
+KIM03_C,Coral Triangle,Coral Triangle,Papua New Guinea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,0,0,3
+TIM01_A,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0,7,3
+TIM01_B,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,4,0,0,2,1
+TIM01_C,Coral Triangle,Coral Triangle,Timor Leste,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,1,6
+TIM02_A,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,1,0,0,11,0,0,3,0,0,1,9
+TIM02_B,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,19,5,0,6,0,0,0,10
+TIM02_C,Coral Triangle,Coral Triangle,Timor Leste,1,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,1,0,13,0,0,4,0,0,0,19
+TIM03_A,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,2,0,0,2,3
+TIM03_B,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,5,0,0,4,8
+TIM03_C,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,5,0,0,3,2
+TIM04_A,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,0,6,0,0,0,2
+TIM04_B,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,5,0,0,0,4
+TIM04_C,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,3,0,1,0,6
+TIM05_A,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,5,27
+TIM05_B,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,4,0,0,5,10
+TIM05_C,Coral Triangle,Coral Triangle,Timor Leste,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,0,0,1,16
+TIM05_D,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,12
+TIM08_A,Coral Triangle,Coral Triangle,Timor Leste,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,0,0,1,6
+TIM08_B,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,0,0,0,5
+TIM08_C,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,5,0,0,2,3
+TIM09_A,Coral Triangle,Coral Triangle,Timor Leste,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,5,0,0,0,4
+TIM09_B,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,1,0,0,3,0,0,2,0,0,0,2
+TIM09_C,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,11
+TIM10_A,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,2,1
+TIM10_B,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,4,0,0,0,6
+TIM10_C,Coral Triangle,Coral Triangle,Timor Leste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,3
+HAW22_A,Main Hawaiian Islands,Main Hawaiian Islands,Hawaii,0,0,0,0,9,1,3,0,0,0,0,0,0,0,2,0,0,0,1,5,0,0,11,0,0,0,24
+HAW22_B,Main Hawaiian Islands,Main Hawaiian Islands,Hawaii,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,11
+HAW22_C,Main Hawaiian Islands,Main Hawaiian Islands,Hawaii,0,0,0,0,7,3,3,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,11,0,0,0,19
+HAW24_A,Main Hawaiian Islands,Main Hawaiian Islands,Hawaii,0,0,0,0,0,3,9,0,0,0,0,0,1,0,0,0,0,1,0,7,0,0,3,0,0,0,35
+HAW24_B,Main Hawaiian Islands,Main Hawaiian Islands,Hawaii,0,0,0,0,8,13,11,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,9,0,0,0,70
+HAW24_C,Main Hawaiian Islands,Main Hawaiian Islands,Hawaii,0,0,0,0,2,5,13,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,4,0,0,0,29
+KAU02_A,Main Hawaiian Islands,Main Hawaiian Islands,Kauai,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,6,0,0,1,0,0,0,26
+KAU02_B,Main Hawaiian Islands,Main Hawaiian Islands,Kauai,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,1,0,2,3,0,0,2,0,0,0,17
+KAU06_A,Main Hawaiian Islands,Main Hawaiian Islands,Kauai,0,0,0,0,2,8,3,0,0,0,0,0,1,0,0,0,0,0,2,2,0,0,1,0,0,0,17
+KAU06_B,Main Hawaiian Islands,Main Hawaiian Islands,Kauai,0,0,0,0,1,5,4,0,0,0,0,0,0,1,1,0,0,0,1,3,0,0,0,0,0,0,16
+KAU08_A,Main Hawaiian Islands,Main Hawaiian Islands,Kauai,0,0,0,0,0,8,7,0,0,0,0,0,0,3,0,0,0,1,2,5,0,0,4,0,0,0,27
+KAU08_B,Main Hawaiian Islands,Main Hawaiian Islands,Kauai,0,0,0,0,0,5,14,0,0,0,0,0,0,0,2,0,0,0,3,1,0,0,5,0,0,0,40
+MAI01_A,Main Hawaiian Islands,Main Hawaiian Islands,Maui,0,0,0,0,0,1,2,0,0,0,0,0,1,1,0,0,0,1,2,1,0,0,1,0,0,0,5
+MAI01_B,Main Hawaiian Islands,Main Hawaiian Islands,Maui,0,0,0,0,1,2,8,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,15
+MAI01_C,Main Hawaiian Islands,Main Hawaiian Islands,Maui,0,0,0,0,0,2,1,0,0,0,0,0,0,0,2,0,1,1,0,1,0,0,2,0,0,0,9
+OAH12_A,Main Hawaiian Islands,Main Hawaiian Islands,Oahu,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,4,0,0,0,13
+OAH12_B,Main Hawaiian Islands,Main Hawaiian Islands,Oahu,0,0,0,0,0,2,1,0,0,0,0,0,0,2,0,0,1,1,3,5,0,0,1,0,0,0,23
+OAH12_C,Main Hawaiian Islands,Main Hawaiian Islands,Oahu,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,1,0,0,0,8
+GUA02_A,Mariana Islands,Mariana Islands,Guam,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12
+GUA02_B,Mariana Islands,Mariana Islands,Guam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0
+GUA02_C,Mariana Islands,Mariana Islands,Guam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,4,0,0,0,8
+GUA05_A,Mariana Islands,Mariana Islands,Guam,0,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4
+GUA05_B,Mariana Islands,Mariana Islands,Guam,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,0,0,0,9
+GUA05_C,Mariana Islands,Mariana Islands,Guam,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,5
+GUA08_A,Mariana Islands,Mariana Islands,Guam,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,5
+GUA08_B,Mariana Islands,Mariana Islands,Guam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,18
+GUA08_C,Mariana Islands,Mariana Islands,Guam,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,10
+GUA12_A,Mariana Islands,Mariana Islands,Guam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,2
+GUA12_B,Mariana Islands,Mariana Islands,Guam,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+GUA12_C,Mariana Islands,Mariana Islands,Guam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4
+MAU04_A,Mariana Islands,Mariana Islands,Maug,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+MAU04_B,Mariana Islands,Mariana Islands,Maug,0,0,0,0,1,0,9,0,0,0,0,0,0,2,2,0,0,0,0,3,0,0,2,0,0,0,6
+MAU04_C,Mariana Islands,Mariana Islands,Maug,0,1,0,0,0,0,8,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,1,0,0,0,1
+MAU09_A,Mariana Islands,Mariana Islands,Maug,0,2,0,0,0,0,6,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,30
+PAG01_A,Mariana Islands,Mariana Islands,Pagan,0,0,0,0,0,0,6,0,0,0,0,1,0,0,1,0,2,0,0,6,0,0,1,0,0,1,14
+PAG01_B,Mariana Islands,Mariana Islands,Pagan,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6,0,0,0,26
+PAG01_C,Mariana Islands,Mariana Islands,Pagan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,3,0,0,0,5
+PAG05_A,Mariana Islands,Mariana Islands,Pagan,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,19
+PAG05_B,Mariana Islands,Mariana Islands,Pagan,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,13
+PAG05_C,Mariana Islands,Mariana Islands,Pagan,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,1,11
+PAG09_A,Mariana Islands,Mariana Islands,Pagan,0,0,0,0,0,0,3,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3
+PAG09_B,Mariana Islands,Mariana Islands,Pagan,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,0,0,0,1,1,0,0,1,0,0,0,5
+PAG09_C,Mariana Islands,Mariana Islands,Pagan,0,0,0,0,0,0,4,0,0,0,0,0,1,0,2,0,1,0,0,4,0,0,4,0,0,0,17
+SAI05_A,Mariana Islands,Mariana Islands,Saipan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,4
+SAI05_B,Mariana Islands,Mariana Islands,Saipan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,9
+SAI05_C,Mariana Islands,Mariana Islands,Saipan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,10
+SAI06_A,Mariana Islands,Mariana Islands,Saipan,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,7,0,1,0,5
+SAI06_B,Mariana Islands,Mariana Islands,Saipan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,7,0,0,0,9
+SAI06_C,Mariana Islands,Mariana Islands,Saipan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,8,0,0,1,0
+SAI08_A,Mariana Islands,Mariana Islands,Saipan,0,0,0,0,0,1,3,0,0,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,6
+SAI08_B,Mariana Islands,Mariana Islands,Saipan,0,0,0,0,1,1,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,6,0,0,0,13
+FFS12_A,NW Hawaiian Islands,NW Hawaiian Islands,French Frigate Shoals,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,6,0,0,1,0,0,0,9
+FFS12_B,NW Hawaiian Islands,NW Hawaiian Islands,French Frigate Shoals,0,0,0,0,1,0,6,0,0,0,0,0,0,1,0,0,0,1,5,2,0,0,1,0,0,0,10
+FFS12_C,NW Hawaiian Islands,NW Hawaiian Islands,French Frigate Shoals,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0,0,2,3,0,0,1,0,0,0,15
+FFS34_A,NW Hawaiian Islands,NW Hawaiian Islands,French Frigate Shoals,0,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,2,0,3,3,0,0,1,0,0,0,10
+FFS34_B,NW Hawaiian Islands,NW Hawaiian Islands,French Frigate Shoals,0,0,0,0,0,3,8,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,4,0,0,0,10
+FFS34_C,NW Hawaiian Islands,NW Hawaiian Islands,French Frigate Shoals,0,0,0,0,0,1,2,0,0,0,0,0,2,0,0,0,2,1,2,3,0,0,1,0,0,1,16
+KUR12_A,NW Hawaiian Islands,NW Hawaiian Islands,Kure,0,0,0,0,0,0,8,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,4,0,0,0,32
+KUR12_B,NW Hawaiian Islands,NW Hawaiian Islands,Kure,0,0,0,0,1,0,9,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,28
+KURR33_A,NW Hawaiian Islands,NW Hawaiian Islands,Kure,0,0,0,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,19
+LISR10_A,NW Hawaiian Islands,NW Hawaiian Islands,Lisianski,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16
+LISR10_B,NW Hawaiian Islands,NW Hawaiian Islands,Lisianski,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5
+LISR10_C,NW Hawaiian Islands,NW Hawaiian Islands,Lisianski,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,21
+LISR14_A,NW Hawaiian Islands,NW Hawaiian Islands,Lisianski,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,21
+LISR14_B,NW Hawaiian Islands,NW Hawaiian Islands,Lisianski,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,28
+LISR14_C,NW Hawaiian Islands,NW Hawaiian Islands,Lisianski,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,16
+PHR33_A,NW Hawaiian Islands,NW Hawaiian Islands,Pearl and Hermes,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,1,0,0,2,0,0,0,0,0,0,5
+PHR33_B,NW Hawaiian Islands,NW Hawaiian Islands,Pearl and Hermes,0,0,0,0,0,0,7,0,0,0,0,0,0,5,5,0,1,1,0,4,0,0,1,0,0,0,7
+PHR33_C,NW Hawaiian Islands,NW Hawaiian Islands,Pearl and Hermes,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,2,0,0,0,13
+PHRR26_A,NW Hawaiian Islands,NW Hawaiian Islands,Pearl and Hermes,0,0,0,0,0,1,6,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,12
+PHRR26_B,NW Hawaiian Islands,NW Hawaiian Islands,Pearl and Hermes,0,0,0,0,0,3,11,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,0,0,21
+PHRR26_C,NW Hawaiian Islands,NW Hawaiian Islands,Pearl and Hermes,0,0,0,0,0,0,11,0,0,0,0,0,0,0,6,0,1,1,0,0,0,0,5,0,0,0,22
+PHRR42_A,NW Hawaiian Islands,NW Hawaiian Islands,Pearl and Hermes,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,5,0,0,2,0,0,0,9
+BAK11_A,Pacific Remote Islands,Phoenix Islands,Baker,0,0,0,0,0,0,5,0,0,0,0,3,0,0,0,0,0,1,0,2,1,0,5,0,0,5,38
+BAK11_B,Pacific Remote Islands,Phoenix Islands,Baker,0,0,0,0,0,0,2,0,0,1,0,3,0,1,0,0,0,1,0,3,0,0,2,0,0,0,33
+BAK11_C,Pacific Remote Islands,Phoenix Islands,Baker,0,0,0,0,0,0,6,0,0,0,0,1,0,3,0,0,0,0,0,2,0,0,2,0,0,2,33
+BAK16_A,Pacific Remote Islands,Phoenix Islands,Baker,0,1,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,3,0,0,4,141
+BAK16_B,Pacific Remote Islands,Phoenix Islands,Baker,0,1,0,0,0,0,42,0,0,0,0,1,0,0,0,0,0,0,0,11,0,0,5,0,0,4,110
+BAK16_C,Pacific Remote Islands,Phoenix Islands,Baker,0,0,0,0,0,0,52,0,0,0,0,3,0,0,0,0,0,0,0,11,0,0,2,0,0,5,109
+HOW05_A,Pacific Remote Islands,Phoenix Islands,Howland,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,4,0,0,0,18
+HOW05_B,Pacific Remote Islands,Phoenix Islands,Howland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,10
+HOW05_C,Pacific Remote Islands,Phoenix Islands,Howland,0,0,0,0,0,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5,0,0,2,0,0,0,10
+HOW11_A,Pacific Remote Islands,Phoenix Islands,Howland,0,0,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,28
+HOW11_B,Pacific Remote Islands,Phoenix Islands,Howland,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,1,23
+HOW11_C,Pacific Remote Islands,Phoenix Islands,Howland,0,0,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,5,0,0,1,31
+HOW14_A,Pacific Remote Islands,Phoenix Islands,Howland,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8
+HOW14_B,Pacific Remote Islands,Phoenix Islands,Howland,0,0,0,0,0,0,2,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,1,0,0,0,17
+HOW14_C,Pacific Remote Islands,Phoenix Islands,Howland,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,0,0,1,14
+JAR04_A,Pacific Remote Islands,Line Islands,Jarvis,0,0,0,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,8,0,0,0,8
+JAR04_B,Pacific Remote Islands,Line Islands,Jarvis,0,0,0,0,0,0,8,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,5,0,0,0,7
+JAR04_C,Pacific Remote Islands,Line Islands,Jarvis,0,0,0,0,0,0,4,0,0,0,0,5,0,0,0,0,0,0,0,6,0,0,2,0,0,0,2
+JAR08_A,Pacific Remote Islands,Line Islands,Jarvis,0,0,0,0,0,0,11,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,0,1,11
+JAR08_B,Pacific Remote Islands,Line Islands,Jarvis,0,0,0,0,0,0,15,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,3,0,0,0,12
+JAR08_C,Pacific Remote Islands,Line Islands,Jarvis,0,0,0,0,0,0,12,0,0,0,0,9,0,1,0,0,0,0,1,0,0,0,4,0,0,1,9
+JAR11_A,Pacific Remote Islands,Line Islands,Jarvis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,0,0,0,5
+JAR11_B,Pacific Remote Islands,Line Islands,Jarvis,0,0,0,0,0,0,2,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,2,0,0,0,5
+JAR11_C,Pacific Remote Islands,Line Islands,Jarvis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+JOH10_A,Pacific Remote Islands,Main Hawaiian Islands,Johnston,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,19
+JOH10_B,Pacific Remote Islands,Main Hawaiian Islands,Johnston,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,18
+JOH10_C,Pacific Remote Islands,Main Hawaiian Islands,Johnston,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,18
+JOH11_A,Pacific Remote Islands,Main Hawaiian Islands,Johnston,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,11
+JOH11_B,Pacific Remote Islands,Main Hawaiian Islands,Johnston,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,18
+JOH11_C,Pacific Remote Islands,Main Hawaiian Islands,Johnston,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,36
+JOH12_A,Pacific Remote Islands,Main Hawaiian Islands,Johnston,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,35
+JOH12_B,Pacific Remote Islands,Main Hawaiian Islands,Johnston,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,33
+JOH12_C,Pacific Remote Islands,Main Hawaiian Islands,Johnston,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,35
+KIN05_C,Pacific Remote Islands,Line Islands,Kingman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+KIN11_A,Pacific Remote Islands,Line Islands,Kingman,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+KIN11_B,Pacific Remote Islands,Line Islands,Kingman,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1
+KIN11_C,Pacific Remote Islands,Line Islands,Kingman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+KIN13_A,Pacific Remote Islands,Line Islands,Kingman,0,0,0,0,0,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+KIN13_B,Pacific Remote Islands,Line Islands,Kingman,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,2,2
+KIN13_C,Pacific Remote Islands,Line Islands,Kingman,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+PAL01_A,Pacific Remote Islands,Line Islands,Palmyra,0,0,0,0,0,0,8,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14
+PAL01_B,Pacific Remote Islands,Line Islands,Palmyra,0,0,0,0,0,0,10,0,0,0,0,11,0,0,0,0,0,0,0,2,0,0,0,0,0,1,4
+PAL01_C,Pacific Remote Islands,Line Islands,Palmyra,0,0,0,0,0,0,6,0,0,0,0,9,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+PAL17_A,Pacific Remote Islands,Line Islands,Palmyra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+PAL17_B,Pacific Remote Islands,Line Islands,Palmyra,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3
+PAL17_C,Pacific Remote Islands,Line Islands,Palmyra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+PAL19_A,Pacific Remote Islands,Line Islands,Palmyra,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+PAL19_B,Pacific Remote Islands,Line Islands,Palmyra,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0
+PAL19_C,Pacific Remote Islands,Line Islands,Palmyra,0,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,1,2
+WAK06_A,Pacific Remote Islands,Mariana Islands,Wake,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,6
+WAK06_B,Pacific Remote Islands,Mariana Islands,Wake,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+WAK06_C,Pacific Remote Islands,Mariana Islands,Wake,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5
+WAK08_A,Pacific Remote Islands,Mariana Islands,Wake,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,4
+WAK09_A,Pacific Remote Islands,Mariana Islands,Wake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5
+WAK09_B,Pacific Remote Islands,Mariana Islands,Wake,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+WAK09_C,Pacific Remote Islands,Mariana Islands,Wake,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,11
